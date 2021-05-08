@@ -2,9 +2,7 @@
 layout: home
 ---
 
-# Stay home
-# Stay safe 
-# Save lives
+# Help us fight covid  
 
-![](stayhomestaysafe.png)
+![stayhome](stayhomestaysafe.png) 
 
