@@ -13,8 +13,8 @@ main { display: block; /* Default value of `display` of `main` element is 'inlin
 /** Images */
 img { max-width: 100%; vertical-align: middle; }
  img[alt="stayhome"] {
- width : 300px;
- height : 300px;
+ width : 200px;
+ height : 200px;
  }
 
 /** Figures */
