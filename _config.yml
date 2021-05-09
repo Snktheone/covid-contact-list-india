@@ -20,9 +20,10 @@
 
 title: Covid-Contact-List-India
 #email: sarang@accedius.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: Simple site to show important contact details and information regarding covid  # this means to ignore newlines until "baseurl:"
 baseurl: # the subpath of your site, e.g. /blog
 url: snktheone.github.io/covid-contact-list-india
+
 #twitter_username: snktheone
 #github_username:  snktheone
 #linkedin_username: snktheone
